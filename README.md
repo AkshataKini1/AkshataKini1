@@ -16,7 +16,7 @@ I'm Akshata Kini, a Data Scientist who builds to solve real problems for users. 
 
 :handshake: I'm looking to collaborate on data projects that create value for others in any field.
 
-:speech_balloon: Ask me about getting into data science or brainstorm a project idea or if you need help with a project.
+:speech_balloon: Reach out to ask me about getting into data science or brainstorm a project idea or if you need help with a project.
 
 ## 🌐🔗Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatakini/) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@akshatakini)
