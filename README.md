@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Akshata Kini, a Data Scientist who builds to solve real problems for users. I focus on creating data products and analytics solutions that are practical and human-centered.
+I'm Akshata Kini, a Data Scientist focused on building to solve real problems for users. I focus on creating data products and analytics solutions that are practical and human-centered.
 
 ### A few things about me 🙋‍♀️ :star2:
 - I’ve worked on end-to-end analytics reporting and data products, from problem framing and data modeling to delivery and iteration
